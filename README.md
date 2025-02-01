@@ -6,7 +6,7 @@ This project focuses on analyzing **motor vehicle collisions** in New York City.
 ## Features
 - **Data Cleaning & Preprocessing**: Handling missing values, filtering incorrect data, and standardizing formats.
 - **Exploratory Data Analysis (EDA)**: Statistical summaries and visualizations of key crash metrics.
-- **Time Series Analysis **: Examining accident trends over time to identify seasonal patterns and long-term changes.
+- **Time Series Analysis**: Examining accident trends over time to identify seasonal patterns and long-term changes.
 - **Geospatial Analysis**: Mapping crash locations using **Folium**.
 - **Ethical Considerations**: Assessing bias and fairness in the dataset.
 
