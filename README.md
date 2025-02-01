@@ -24,6 +24,5 @@ The dataset is sourced from [NYC Open Data](https://data.cityofnewyork.us/Public
 - **Leading Causes of Accidents**: The most frequent causes include **distracted driving, speeding, and failure to yield**. Additionally, **weather-related factors** (such as rain and snow) significantly increase accident occurrences.
 
 ## Technologies Used
-- 
 - Python (Pandas, Matplotlib, Seaborn, Folium, NumPy, Scikit-learn, GeoPandas, Statsmodels)
 
